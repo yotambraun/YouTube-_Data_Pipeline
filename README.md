@@ -1,5 +1,4 @@
 # YouTube-_Data_Pipeline
 
-## Digran Architecture
-![terraform-architecture-flow](terraform-architecture-flow.mermaid)
-
+## Architecture Diagram Flow
+![YouTube Pipeline Architecture](YouTube%20Pipeline%20Architecture.png)
