@@ -1,2 +1,10 @@
 .env
 terraform-architecture-flow.mermaid
+conda.txt
+*.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.log
+.vscode/
